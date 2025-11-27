@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shakil Kham</h1>
+<h1 align="center">Hi 👋, I'm Shakil Khan</h1>
 <h3 align="center">I’m passionate about building modern, scalable systems by following best practices across both frontend and backend development. I strive to deliver innovative, efficient solutions while continuously learning and staying up to date with industry trends in fast-paced, competitive environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakil801&label=Profile%20views&color=0e75b6&style=flat" alt="shakil801" /> </p>
